@@ -1,8 +1,8 @@
 # Console.log('Hola Mundo!! 👋')
 
 Soy John, Diseñador y Desarrollador web, actualmente formandome como desarrollador full stack.
-Aquí estarán mis trabajos y proyectos ⚡
 
+Aquí estarán mis trabajos y proyectos ⚡
 Puedes seguir mi trabajo 🚀
 
 - Portafolio de Diseño [Behance](https://www.behance.net/johndevsigner)
