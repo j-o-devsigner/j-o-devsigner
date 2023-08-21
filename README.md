@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, digital explorers! 👋<br><br>I'm J-O-Devsigner 🚀,<br>A web developer enthusiast and design lover. My universe revolves around crafting captivating online experiences. I thrive on merging lines of code with design pixels to breathe life into innovative ideas. Always in pursuit of new challenges and learning opportunities to grow. 
+Greetings, digital explorers! 👋<br><br>I'm John! Developer and Designer 🚀,<br>A web developer enthusiast and design lover. My universe revolves around crafting captivating online experiences. I thrive on merging lines of code with design pixels to breathe life into innovative ideas. Always in pursuit of new challenges and learning opportunities to grow. 
 
 
 ## 🌐 Socials:
