@@ -84,7 +84,7 @@
 ## 📝 Latest Projects
 
 - **[Nexus DevOps Lab](https://github.com/j-o-devsigner/Nexus-DevOps-Labs):** EKS, RDS, Terraform, microservicios, autoescalado y más.
-- **FullStack Microservices App:** Nexus - React, Node.js, PostgreSQL, Docker.
+- **[FullStack Microservices App](https://github.com/j-o-devsigner/Nexus-React-Front):** Nexus - React, Node.js, PostgreSQL, Docker.
 
 ---
 
