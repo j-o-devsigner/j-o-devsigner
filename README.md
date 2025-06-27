@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John 👋</h1>
-<h3 align="center">Full Stack Developer & Designer</h3>
+<h3 align="center">Full Stack Developer | DevOps | Design</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Crafting+Web+Experiences;Design+%2B+Code+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -76,7 +76,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-O-Devsigner&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-O-Devsigner&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
