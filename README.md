@@ -76,8 +76,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-O-Devsigner&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-O-Devsigner&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-O-Devsigner&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -85,8 +84,7 @@
 ## 📝 Latest Projects
 
 - **Nexus DevOps Lab:** EKS, RDS, Terraform, microservicios, autoescalado y más.
-- **UI/UX Showcases:** Interfaces modernas y prototipos interactivos.
-- **FullStack Apps:** React, Node.js, PostgreSQL, Docker.
+- **FullStack Microservices App:** Nexus - React, Node.js, PostgreSQL, Docker.
 
 ---
 
