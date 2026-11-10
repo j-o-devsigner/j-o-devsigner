@@ -62,8 +62,6 @@ Real observability problems, reproduced on a local Kubernetes cluster:
 
 - **[Nexus DevOps Labs](https://github.com/j-o-devsigner/Nexus-DevOps-Labs):** EKS, RDS, Terraform, microservices and autoscaling.
 - **[90-day DevOps Challenge](https://github.com/j-o-devsigner/Roxs-DevOps-Challenges):** weekly solutions to the Roxs DevOps challenge.
-- **[AWS Cost Optimizer MCP](https://github.com/j-o-devsigner/aws-cost-optimizer-mcp):** MCP server for AWS cost analysis.
-- **[Nexus Full Stack App](https://github.com/j-o-devsigner/Nexus-React-Front):** React, Node.js, PostgreSQL and Docker microservices.
 
 ---
 
